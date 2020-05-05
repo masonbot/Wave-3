@@ -1,5 +1,4 @@
 
-
 def integer(n):
     if (n==1):
         return False
